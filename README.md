@@ -42,8 +42,23 @@ This assignment took me a bit longer because I got my mirror wrong the first tim
 ## Tire
 
 ### Description 
-This definitely took me the longest out of all of the parts because I made the same mistake I made last year, my rectangles were not symetric which gave me problems when I was revolving it.
+This part was pretty easy, but I learned how to use the revolve tool on onshape which is pretty cool.
 
 
 <img src= "https://github.com/nsun94/Onshape-projects/blob/main/Tire.png">
+
+
+[Onshape file:](https://cvilleschools.onshape.com/documents/6c2446522146d4fbf4507bdc/w/212e640bf9a2599ab4662997/e/c49f8086a240a2d488aa6083)
+
+
+
+## Wheel 
+
+### Description
+This definitely took me the longest out of all of the parts because I made the same mistake I made last year, my rectangles were not symetric which gave me problems when I was revolving it.
+
+<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Wheel.png">
+
+[Onshape file:](https://cvilleschools.onshape.com/documents/45c8f37f633ca77465fbfcba/w/61b4e84439253cf25f4b3eb8/e/b2707fcfefb97fdb7d28b357)
+
 
