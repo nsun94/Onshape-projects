@@ -74,5 +74,25 @@ These pieces were very easy to make.
 
 
 
+## Sub-Assembly
+
+### Description
+
+This was my first time making an assembly in onshape and it was not very difficult. The mates were a bit tricky but once I got used to them they were no problem.
+
+<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Wheel%20subassem.png"> 
+
+[Onshape file:](https://cvilleschools.onshape.com/documents/bc90734426b0e7e3b235d4d1/w/57b1c4f9bc7a1cc112e91e17/e/67c0a4cf94590707b29d1b78)
+
+## Final-Assembly
+
+### Description
+
+This assembly was not hard because in the previous assignment I learned how to do mates, it was cool to see everything come together though.
+
+<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Final%20Subassem.png"> 
+
+[Onshape file:](https://cvilleschools.onshape.com/documents/0e77ddc1b3e6ac96b424be7d/w/2b2be65d84c57111e9230a4c/e/c5bef973ffe137e5ac751d15)
+
 
 
