@@ -37,3 +37,13 @@ This assignment took me a bit longer because I got my mirror wrong the first tim
 
 
 [Onshape file:](https://cvilleschools.onshape.com/documents/2654c81ee7a11481b8f057ad/w/f79fa89a335894d49256909a/e/caf1072884e0e95ab6ff8edc)
+
+
+## Tire
+
+### Description 
+This definitely took me the longest out of all of the parts because I made the same mistake I made last year, my rectangles were not symetric which gave me problems when I was revolving it.
+
+
+<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Tire.png">
+
