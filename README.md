@@ -62,3 +62,17 @@ This definitely took me the longest out of all of the parts because I made the s
 [Onshape file:](https://cvilleschools.onshape.com/documents/45c8f37f633ca77465fbfcba/w/61b4e84439253cf25f4b3eb8/e/b2707fcfefb97fdb7d28b357)
 
 
+## Axle, Collar, Bearings
+
+### Description
+These pieces were very easy to make.
+
+<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Axel%2C%20Bearing%2C%20Collar.png">
+
+
+[Onshape file:](https://cvilleschools.onshape.com/documents/06c42b3ac93092238878aaf0/w/9930c5b37067b68a12e085b9/e/6d06a67198600efda91483d4)
+
+
+
+
+
