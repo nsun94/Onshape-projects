@@ -21,7 +21,7 @@ This part is very similar to the base so I finished it very quickly.
 
 
 
-<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Mount.png" width= "256"
+<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Mount.png" width= "256">
  
  
  
@@ -33,7 +33,7 @@ This part is very similar to the base so I finished it very quickly.
 This assignment took me a bit longer because I got my mirror wrong the first time and I hadn't realized it was wrong until I tried bringing into my final assembly.
 
 
-<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Fork.png"
+<img src= "https://github.com/nsun94/Onshape-projects/blob/main/Fork.png">
 
 
 [Onshape file:](https://cvilleschools.onshape.com/documents/2654c81ee7a11481b8f057ad/w/f79fa89a335894d49256909a/e/caf1072884e0e95ab6ff8edc)
